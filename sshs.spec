@@ -1,5 +1,5 @@
 Name: sshs
-Version: 4.5.1
+Version: 4.5.2
 Release: 1
 License: MIT
 Summary: TUI for SSH
